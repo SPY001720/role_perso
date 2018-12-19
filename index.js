@@ -68,4 +68,4 @@ Client.on('ready', () => {
 
 Client.on('error', e => { console.error(e) })
 
-Client.login(botToken)
+Client.login(token)
